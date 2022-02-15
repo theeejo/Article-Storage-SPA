@@ -53,7 +53,7 @@ Adding, editing, deleting references for specific articles.
 
 https://user-images.githubusercontent.com/89813870/154089290-058682ab-5e3f-4edb-9ae0-56b469829457.mp4
 
-Seeing how the database stores the data. 
+Seeing how the database stores the data with HeidiSQL. 
 
 https://user-images.githubusercontent.com/89813870/154089296-059196d5-3b78-4118-9a95-5169592b661b.mp4
 
