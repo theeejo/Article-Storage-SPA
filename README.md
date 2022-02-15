@@ -10,10 +10,40 @@ Simple Single Page Application for storing articles and their references using R
 * Order (sort) articles by the latest ones (descending publication date)
 
 ### Prerequisites
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+Use HeidiSQL or any other administration tool for MySQL. Also Postman was used for testing the routing on the server.
 
-Node.js installed along with HeidiSQL or any other administration tool for MySQL. Also Postman was used for testing the routing on the server.
+### How To Use
 
-### Usage
+From your command line:
+```bash
+# Clone this repository
+$ git clone https://github.com/theeejo/Article-Storage-SPA
+
+# Go into the repository
+$ cd Article-Storage-SPA
+
+# Go into the backend
+$ cd server
+
+# Install dependencies
+$ npm install
+
+# Run the server
+$ npm start
+
+# Go into the frontend
+$ cd ..
+# cd gui
+
+# Install dependencies
+$ npm install
+
+# Run the user interface
+$ npm start
+```
+
+### Usage Demo
 
 Adding, editing, deleting articles along with ordering and filtering them.
 
