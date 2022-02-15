@@ -1,4 +1,4 @@
-# Article-Storage
+# Article-Storage-SPA
 
 Simple Single Page Application for storing articles and their references using React, Node.js, Express.js, MySQL.
 
