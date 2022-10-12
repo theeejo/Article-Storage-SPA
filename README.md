@@ -63,3 +63,8 @@ https://user-images.githubusercontent.com/89813870/154089296-059196d5-3b78-4118-
 * React
 * Node.js + Express.js
 * MySQL
+
+
+## License
+
+This project is licensed under the MIT License
